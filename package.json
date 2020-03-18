@@ -16,7 +16,7 @@
     "z": "echo 'empty script'"
   },
   "dependencies": {
-    "@void-aurora/toolkit": "^0.9.14"
+    "@void-aurora/toolkit": "^0.9.17"
   },
   "devDependencies": {
     "@types/jest": "^25.1.4",
